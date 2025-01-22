@@ -10,3 +10,5 @@ Git has a mutable index called stage.
 速度
 
 5639453845777534058
+
+bug-001
